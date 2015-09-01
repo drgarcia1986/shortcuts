@@ -3,6 +3,7 @@ List of useful shortcuts to increase your productivity
 
 * [Bash](#bash)
 * [Terminator](#terminator)
+* [iTerm](#iterm)
 
 ## Bash
 | Command | Description |
@@ -68,3 +69,16 @@ List of useful shortcuts to increase your productivity
 |**Ctrl+Minus (-)**| Decrease font size|
 |**Ctrl+Zero (0)**| Restore font size to original setting|
 |**Ctrl+Shit+Q**| Quit terminator|
+
+## iTerm
+| Command | Description|
+|---------|------------|
+|**⌘+T**| Open new tab|
+|**⌘+Left**| Move to the left tab|
+|**⌘+Rigth**| Move to the right tab|
+|**⌘+D**| Split Vertically|
+|**⇧+⌘+D**| Split Horizontally|
+|**⌘+⌥+Right**| Move to the right terminal|
+|**⌘+⌥+Left**| Move to the left terminal|
+|**⌘+⌥+Up**| Move to the top terminal|
+|**⌘+⌥+Down**| Move to the bottom terminal|
