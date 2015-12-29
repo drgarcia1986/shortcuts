@@ -82,3 +82,5 @@ List of useful shortcuts to increase your productivity
 |**⌘+⌥+Left**| Move to the left terminal|
 |**⌘+⌥+Up**| Move to the top terminal|
 |**⌘+⌥+Down**| Move to the bottom terminal|
+|**⌘+⌥+I**| Broadcast the input to all terminals in the current tab|
+|**⌘+⇧+I**| Broadcast the input to all terminals in all tabs|
