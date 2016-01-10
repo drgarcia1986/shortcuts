@@ -40,10 +40,13 @@ List of useful shortcuts to increase your productivity
 |**!!**|Run last command|
 |**!foo**|Run the most recent command that starts with ‘foo’|
 |**!foo:p**|Print out the command that !foo would run|
+|**foo<up arrow>**|Print out or/and loop through the previous commands that start with foo|
 |**!$**|The last word of the previous command (same as _Alt+._)|
 |**!\$:p**|Print out the word that !$ would substitute|
 |**!\***|The previous command except for the last word|
 |**!\*:p**|Print out what !* would substitute|
+|**!?foo:p**|Print out the last command that contains foo|
+
 
 ## Terminator
 | Command | Description|
