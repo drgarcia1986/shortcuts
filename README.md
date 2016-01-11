@@ -37,10 +37,10 @@ List of useful shortcuts to increase your productivity
 |**Ctrl+Q**|Allow output to the screen|
 |**Ctrl+C**|Terminate the command|
 |**Ctrl+Z**|Suspend/stop the command|
+|**foo+Up**|Print out or/and loop through the previous commands that start with foo|
 |**!!**|Run last command|
 |**!foo**|Run the most recent command that starts with ‘foo’|
 |**!foo:p**|Print out the command that !foo would run|
-|**foo<up arrow>**|Print out or/and loop through the previous commands that start with foo|
 |**!$**|The last word of the previous command (same as _Alt+._)|
 |**!\$:p**|Print out the word that !$ would substitute|
 |**!\***|The previous command except for the last word|
